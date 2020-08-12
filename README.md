@@ -4,10 +4,11 @@
 - 💻 Programming languages: JavaScript (React, Vue, Angular, Vanilha, Node and TypeScript -> ES6+) and Python (Django).
 - ⚡ I do not have a CS degree.
 - ❤️ FrontEnd.
-- 🔥 Learning: Tests with React Testing Library and Jest.
+
+- 👇 I won the Lemonade Hackaton 2019. I'm the one with raised arm. 
 
 <center>
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/3FGf4kK/Lemonade.png" alt="Lemonade" border="0"></a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/3FGf4kK/Lemonade.png" alt="Lemonade" border="0" align="center"></a>
 </center>
 
 ### How to reach me:
