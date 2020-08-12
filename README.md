@@ -14,4 +14,4 @@
 ### How to reach me:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasporto21/)
-[![Twitter](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/lucasfeed/)
+[![Instagram](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/lucasfeed/)
