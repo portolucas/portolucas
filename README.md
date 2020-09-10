@@ -1,9 +1,9 @@
 ### Hey, I'm Lucas 👋🏼
 
-- 🔭 I'm currently working at [Engineering Brasil](https://www.engdb.com.br/) as a **Software Engineer**.
-- 💻 Programming languages: JavaScript (React, Vue, Vanilha, Node and TypeScript => ES6+) and Python (Django).
-- ⚡ Fun fact: I do not have a CS degree.
-- ❤️ FrontEnd.
+- 🔭  I'm currently working at [Engineering Brasil](https://www.engdb.com.br/) as a **Software Engineer**.
+- 💻  Programming languages: JavaScript (React, Vue, Vanilha, Node and TypeScript => ES6+) and Python (Django).
+- ⚡  Fun fact: I do not have a CS degree.
+- ❤️  FrontEnd.
 
 - 👇 I won the Lemonade Hackaton 2019. I'm the one with raised arm. 
 
