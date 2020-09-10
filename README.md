@@ -8,7 +8,7 @@
 - 👇 I won the Lemonade Hackaton 2019. I'm the one with raised arm. 
 
 <center>
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/3FGf4kK/Lemonade.png" alt="Lemonade" border="0" align="center" width="50%"></a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/3FGf4kK/Lemonade.png" alt="Lemonade" border="0" align="center" width="30%" margin="10px"></a>
 </center>
 
 ### How to reach me:
