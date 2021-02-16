@@ -1,11 +1,11 @@
 ### Hey, I'm Lucas 👋🏼
 
 - I'm currently working at [Framework](https://frwk.com.br/) as a **Senior Frontend Developer**. 🔭 
-- Programming languages: JavaScript (React, Vue, Vanilha, Node and TypeScript => ES6+) and Python. 💻 
-- Fun fact: I do not have a CS degree. ⚡ 
-- FrontEnd. ❤️
+- Programming languages: JavaScript (**React**, Vue, Vanilha, Node and TypeScript => ES6+) and **Python**. 💻 
+- Fun fact: I **do not** have a CS degree. ⚡ 
+- Frontend. ❤️
 
-- I won the Lemonade Hackaton 2019. I'm the one with raised arm. 👇  
+- I **won** the Lemonade Hackaton 2019. I'm the one with raised arm. 👇  
 
 <center>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/3FGf4kK/Lemonade.png" alt="Lemonade" border="0" align="center" width="30%" padding="15px!important"></a>
