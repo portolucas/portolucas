@@ -18,8 +18,8 @@
 
 ## Stats
 
-[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=portolucas&count_private=true&show_icons=true&theme=dracula&hide_rank=false)]
+[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=portolucas&count_private=true&show_icons=true&theme=dracula&hide_rank=false)
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portolucas&theme=dracula)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portolucas&theme=dracula)
