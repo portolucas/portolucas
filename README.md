@@ -1,7 +1,7 @@
 ### Hey, I'm Lucas 👋🏼
 
 - I'm currently working at [Framework](https://frwk.com.br/) as a **Senior Frontend Developer**. 🔭 
-- Programming languages: JavaScript (**React**, Vue, Vanilha, Node and TypeScript => ES6+) and **Python**. 💻 
+- Programming languages: JavaScript (**React/React Native**, Vue, Vanilha, Node and TypeScript => ES6+) and **Python**. 💻 
 - Fun fact: I **do not** have a CS degree. ⚡ 
 - Frontend. ❤️
 
