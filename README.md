@@ -1,8 +1,9 @@
 ### Hey, I'm Lucas 👋🏼
 
 - I'm currently working at [Framework](https://frwk.com.br/) as a **Senior Frontend Developer**. 🔭 
-- Programming languages: JavaScript (**React/React Native**, Vue, Vanilha, Node and TypeScript => ES6+) and **Python**. 💻 
-- Fun fact: I **do not** have a CS degree. ⚡ 
+- Programming languages: JavaScript (**React/React Native**, Vanilha, Node and TypeScript => ES6+) and **Python**. 💻
+- Fun fact: I **do not** have a CS degree, but I have a CS master degree. ⚡ 
+- Backend and Devops enthusiast. 🔭
 - Frontend. ❤️
 
 - I **won** the Lemonade Hackaton 2019. I'm the one with raised arm. 👇  
