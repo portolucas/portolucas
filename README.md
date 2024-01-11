@@ -14,7 +14,3 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasporto21/)
 [![Instagram](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/lucasfeed/)
-
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portolucas&theme=dracula)
